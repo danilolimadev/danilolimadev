@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on full stack and mobile
-- 🌱 I’m currently learning ethical hacking, angular and laravel
+- 🌱 I’m currently learning ethical hacking, angular, laravel and flutter
 - 📫 How to reach me: danilo@imperiocripto.com.br
 
  <div>
