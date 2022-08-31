@@ -3,8 +3,8 @@
 
 
 - 🔭 I’m currently working on full stack and mobile
-- 🌱 I’m currently learning ethical hacking, angular, laravel and flutter
-- 📫 How to reach me: danilo@imperiocripto.com.br
+- 🌱 I’m currently learning aws, angular, laravel and mastering flutter
+- 📫 How to reach me: danilolimadev@gmail.com
 
  <div>
   <a href="https://github.com/danilolimadev">
@@ -27,7 +27,7 @@
   ##
   
 <div> 
-  <a href = "mailto:danilo@imperiocripto.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:danilolimadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/danilo-lima-55b228126" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ##
