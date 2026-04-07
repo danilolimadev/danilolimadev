@@ -57,14 +57,6 @@ https://github.com/danilolimadev
 - LinkedIn: https://www.linkedin.com/in/danilo-lima-55b228126  
 
 ---
-
-### 📊 GitHub Stats
-
-![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=danilolimadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilolimadev&layout=compact&langs_count=7&theme=dracula)
-
----
 ###
   
 ![Snake animation](https://github.com/danilolimadev/danilolimadev/blob/output/github-contribution-grid-snake.svg)
