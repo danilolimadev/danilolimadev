@@ -1,40 +1,71 @@
-### Hello World, I'm Danilo Lima 👋
+## 👋 Hi, I'm Danilo Lima
 
+Software Engineer with experience in **Full Stack, Mobile and Embedded Systems**, working end-to-end from firmware development to scalable web and mobile applications.
 
+---
 
-- 🔭 I’m currently working on full stack and mobile
-- 🌱 I’m currently learning aws, angular, laravel and mastering flutter
-- 📫 How to reach me: danilolimadev@gmail.com
+### 🚀 About Me
 
- <div>
-  <a href="https://github.com/danilolimadev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilolimadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilolimadev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Danilo-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="center" alt="Danilo-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg">
-  <img align="center" alt="Danilo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Danilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Danilo-Kotlyn" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Danilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Danilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Danilo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Danilo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Danilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Danilo-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Danilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Danilo-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-</div>
+- 💻 Software Engineer with background in Control and Automation Engineering  
+- 📱 Developed and published **10+ mobile apps with Flutter** on Google Play  
+- 🔌 Experience with **embedded systems (ARM - NXP, Renesas)** and communication protocols (UART, SPI, I2C, BLE)  
+- 🌐 Full stack development with modern frameworks and scalable architectures  
+- ☁️ Experience with **cloud platforms (AWS & Azure)**  
+- 🧠 Strong problem-solving skills and fast learner  
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+Java, JavaScript/TypeScript, Python, PHP, C, C++, C#, Dart, Kotlin  
+
+**Frontend:**  
+React, Angular, Vue.js  
+
+**Mobile:**  
+Flutter, Android (Java/Kotlin)  
+
+**Backend:**  
+Node.js, Java, PHP  
+
+**Embedded Systems:**  
+ARM Cortex-M (NXP, Renesas), UART, SPI, I2C, BLE  
+
+**Cloud & DevOps:**  
+AWS, Azure, Docker  
+
+---
+
+### 📱 Mobile Apps
+
+🔗 Google Play Developer Profile:  
+https://play.google.com/store/apps/developer?id=7087021698890299212  
+
+---
+
+### 💼 Featured Projects
+
+🔗 Check out my repositories:  
+https://github.com/danilolimadev  
+
+---
+
+### 📫 Contact
+
+- Email: danilolimadev@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/danilo-lima-55b228126  
+
+---
+
+### 📊 GitHub Stats
+
+![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=danilolimadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danilolimadev&layout=compact&langs_count=7&theme=dracula)
+
+---
+###
   
-  ##
+![Snake animation](https://github.com/danilolimadev/danilolimadev/blob/output/github-contribution-grid-snake.svg)
   
-<div> 
-  <a href = "mailto:danilolimadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danilo-lima-55b228126" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ##
-  
-  ![Snake animation](https://github.com/danilolimadev/danilolimadev/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
