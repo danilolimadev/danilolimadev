@@ -40,7 +40,7 @@ AWS, Azure, Docker
 ### 📱 Mobile Apps
 
 🔗 Google Play Developer Profile:  
-https://play.google.com/store/apps/developer?id=7087021698890299212  
+https://play.google.com/store/apps/dev?id=7087021698890299212  
 
 ---
 
